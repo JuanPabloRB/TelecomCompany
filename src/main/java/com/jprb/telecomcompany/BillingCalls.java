@@ -38,7 +38,7 @@ public class BillingCalls {
         LoadCallPlan loadCallPlan = new LoadCallPlan();
         CallPlan callPlan = new CallPlan();
         int h = call.getStartTimeH();
-        int m = call.getStartTimeM(); //No se utilizan solo se tienen en cuenta por si el horario nocturno no fuera en de 22 a 4 en punto
+       // int m = call.getStartTimeM(); //No se utilizan solo se tienen en cuenta por si el horario nocturno no fuera en de 22 a 4 en punto
         String day = call.getDay();
         double tariff;
         double costCall;

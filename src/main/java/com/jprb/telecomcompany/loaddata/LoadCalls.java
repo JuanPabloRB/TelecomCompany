@@ -17,7 +17,7 @@ public class LoadCalls {
 
     public List<Call> getListClientCalls(Integer clientId) {
 
-        List<Call> listClientCalls = new ArrayList();
+        List<Call> listClientCalls = new ArrayList<Call>();
 
         Call call = new Call();
 

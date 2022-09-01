@@ -6,8 +6,6 @@
 package com.jprb.telecomcompany.loaddata;
 
 import com.jprb.telecomcompany.dao.Client;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  *
