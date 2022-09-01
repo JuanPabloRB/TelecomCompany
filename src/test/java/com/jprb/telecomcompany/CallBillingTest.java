@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.directv.telecomcompany;
+package com.jprb.telecomcompany;
 
-import com.directv.telecomcompany.dao.Call;
-import com.directv.telecomcompany.dao.Client;
-import com.directv.telecomcompany.loaddata.LoadCalls;
-import com.directv.telecomcompany.loaddata.LoadClient;
+import com.jprb.telecomcompany.dao.Call;
+import com.jprb.telecomcompany.dao.Client;
+import com.jprb.telecomcompany.loaddata.LoadCalls;
+import com.jprb.telecomcompany.loaddata.LoadClient;
 import java.text.DecimalFormat;
 import java.util.List;
 import org.junit.jupiter.api.AfterEach;

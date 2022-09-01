@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.directv.telecomcompany.dao;
+package com.jprb.telecomcompany.dao;
 
 /**
  *

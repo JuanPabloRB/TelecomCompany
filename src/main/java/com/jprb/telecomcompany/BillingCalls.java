@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.directv.telecomcompany;
+package com.jprb.telecomcompany;
 
-import com.directv.telecomcompany.dao.Call;
-import com.directv.telecomcompany.dao.CallPlan;
-import com.directv.telecomcompany.dao.Client;
-import com.directv.telecomcompany.loaddata.LoadCallPlan;
+import com.jprb.telecomcompany.dao.Call;
+import com.jprb.telecomcompany.dao.CallPlan;
+import com.jprb.telecomcompany.dao.Client;
+import com.jprb.telecomcompany.loaddata.LoadCallPlan;
 
 /**
  *
